@@ -9,6 +9,7 @@ function AppRouter() {
       <Routes>
         <Route path="/" element={<App />}></Route>
         <Route path="/context" element={<ContexxtComponent />}></Route>
+        {/* <Route path="" element={}></Route> */}
         <Route path="/contextSolution" element={<ContexxtComponentSolu />}></Route>
       </Routes>
     </BrowserRouter>
