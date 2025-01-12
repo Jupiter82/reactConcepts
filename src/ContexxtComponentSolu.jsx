@@ -43,7 +43,11 @@ export const ContexxtComponentSolu = () => {
 
     return (
         <>
-            <div>ContexxtComponentSolu</div>
+            <div>Using import React," createContext, useContext, useState" from 'react'
+
+                / const UserContext = createContext
+                / UserContext.Provider value=user/  const user = useContext(UserContext)
+            </div>
             <Component1 />
         </>
     )
