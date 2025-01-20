@@ -1,4 +1,6 @@
 # React + Vite
+terminal 1: yarn dev
+terminal 2: npx json-server db.json //to run json-server
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
